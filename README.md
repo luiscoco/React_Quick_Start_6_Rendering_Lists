@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React_Quick_Start_6_Rendering_Lists (React + TypeScript + Vite)
 
 https://www.youtube.com/watch?v=ReRbKCLDpTg&t=27s
 
